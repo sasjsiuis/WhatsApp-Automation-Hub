@@ -1,0 +1,4 @@
+[
+  { "id": "1", "title": "Welcome Message", "content": "Hi {{name}}, welcome to our service! We're glad to have you." },
+  { "id": "2", "title": "Appointment Reminder", "content": "Hello, this is a reminder for your appointment on {{date}} at {{time}}." }
+]
